@@ -29,7 +29,8 @@ twitter_username: alwasega
 github_username:  alwasega
 
 # Build settings
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
+theme: minima
 plugins:
   - jekyll-feed
 
