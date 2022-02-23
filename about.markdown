@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-I am Allan. [Here](/files/CV.pdf) is my CV. 
+I am Allan. [Here](/files/Allan_Resume.pdf) is my CV. 
